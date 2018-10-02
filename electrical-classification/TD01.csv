@@ -96,8 +96,12 @@ Resistance,kilo Ω
 Resistance,mΩ
 Resistance,kΩ
 Resistance,ohm
-Resistance,Ohm
 Resistance,ohms
+Resistance,kiloohms
+Resistance,milli ohms
+Resistance,milliohms
+Resistance,5 milli ohms
+Resistance,2000 milliohms
 Resistance,impedance
 Resistance,resistance
 Resistance,Max. Impedance (Ω) +20°C 100KHz
@@ -117,7 +121,9 @@ Resistance,2 Ω
 Resistance,5 mΩ
 Resistance,100 Ω
 Resistance,250 kΩ
-resistance,8 mΩ
+Resistance,8 mΩ
+Resistance,200 kiloohms
+Resistance,10 kilo ohms
 Voltage,v
 Voltage,V
 Voltage,volt
@@ -152,5 +158,10 @@ Voltage,w vdc
 Voltage,15v
 Voltage,25 vdc
 Voltage,32vdc
-voltage,165 volts
+Voltage,165 volts
+Voltage,5 kv
+Voltage,5kv
+Voltage,5 kilo volts
+Voltage, 5 kvolts
+Voltage,20 kvolts
 
