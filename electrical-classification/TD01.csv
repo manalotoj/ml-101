@@ -1,30 +1,42 @@
 ﻿Category,Value
 Capacitance,f
-Capacitance,F
 Capacitance,farad
 Capacitance,Farad
 Capacitance,farads
-Capacitance,Farads
+Capacitance,micro farads
+Capacitance,microfarads
+Capacitance,micro farad
+Capacitance,microfarad
+Capacitance,pico farads
+Capacitance,picofarads
+Capacitance,pico farad
+Capacitance,picofarad
+Capacitance,μ farads
+Capacitance,μfarads
+Capacitance,μf
+Capacitance,nf
+Capacitance,n f
+Capacitance,n farad
+Capacitance,n farads
+Capacitance,nano farad
+Capacitance,nanofarad
+Capacitance,nanofarads
+Capacitance,nano farads
 Current,a
 Current,A
 Current,amp
-Current,Amp
 Current,amps
-Current,Amps
 Current,amperes
-Current,Amperes
 Resistance,Ω
+Resistance,mega Ω
+Resistance,kilo Ω
+Resistance,
 Resistance,ohm
 Resistance,Ohm
 Resistance,ohms
-Resistance,Ohms
 Voltage,v
 Voltage,V
 Voltage,volt
-Voltage,Volt
 Voltage,volts
-Voltage,Volts
 Voltage,vdc
-Voltage,Vdc
-Voltage,v dc
-Voltage,V dc
+Voltage,vdc
