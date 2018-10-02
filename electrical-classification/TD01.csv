@@ -31,6 +31,11 @@ Capacitance,milli farads
 Capacitance,millifarads
 Capacitance,milli farad
 Capacitance,millifarad
+Capacitance,10 μF to 2200 μF
+Capacitance,Cap (μF)
+Capacitance,1 μF to 470 μF
+Capacitance,Cap (±20 %) μF
+Capacitance,Capacitance
 Current,a
 Current,amp
 Current,amps
@@ -51,15 +56,32 @@ Current,micro a
 Current,micro amp
 Current,micro amps
 Current,micro amperes
+Current,current
+Current,ripple current
+Current,ripple current (100KHz) (+105 °C) (mA r.m.s.)
+Current,mA rms
+Current,Max. Ripple Current (mA) +105°C, 100KHz
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
-Resistance,
+Resistance,mΩ
+Resistance,kΩ
 Resistance,ohm
 Resistance,Ohm
 Resistance,ohms
+Resistance,impedance
+Resistance,resistance
+Resistance,Max. Impedance (Ω) +20°C, 100KHz
 Voltage,v
 Voltage,V
 Voltage,volt
 Voltage,volts
 Voltage,vdc
+Voltage,6.3 V.DC to 50 V.DC
+Voltage,W.V. (V)
+Voltage,W.V.
+Voltage,WV V
+Voltage,SV Vdc
+Voltage,WV Vdc
+Voltage,Working Voltage Vdc
+
