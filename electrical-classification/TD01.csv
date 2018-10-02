@@ -79,6 +79,17 @@ Current,IR 105 °C (mA)
 Current,IR 125 °C 100 kHz (mA)
 Current,I
 Current,I=Leakage Current(μA)
+Current,15a
+Current,10a
+Current,22 ma
+Current,22 milli amps
+Current,22 milliamps
+Current,15 amperes
+Current,.25 amps
+Current,.25a
+Current,15μa
+current,15 μa
+current,200 micro amps
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
@@ -99,6 +110,14 @@ Resistance,Z 100 kHz 20 °C (Ω)
 Resistance,Z 100 kHz -40 °C (Ω)
 Resistance,impedance Z
 Resistance, Z IMPEDANCE
+Resistance,10 ohms
+Resistance,10 Ω
+Resistance,20 kΩ
+Resistance,2 Ω
+Resistance,5 mΩ
+Resistance,100 Ω
+Resistance,250 kΩ
+resistance,8 mΩ
 Voltage,v
 Voltage,V
 Voltage,volt
@@ -121,4 +140,17 @@ Voltage,UR V
 Voltage,16 V to 100 V
 Voltage,Rated voltage (in V)
 Voltage,V=Rated Voltage(Vdc)
+Voltage,150 v
+Voltage,225v
+Voltage,6.3 vdc
+Voltage,vdc
+Voltage,wvdc
+Voltage,working  vdc
+Voltage,working v
+Voltage,wvdc
+Voltage,w vdc
+Voltage,15v
+Voltage,25 vdc
+Voltage,32vdc
+voltage,165 volts
 
