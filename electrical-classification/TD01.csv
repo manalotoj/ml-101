@@ -38,6 +38,12 @@ Capacitance,1 μF to 470 μF
 Capacitance,Cap (±20 %) μF
 Capacitance,Capacitance
 Capacitance,4.7 ~ 6800µF
+Capacitance,1 μF to 1500 μF
+Capacitance,3.3 μF to 6800 μF
+Capacitance,0.47 μF to 1000 μF
+Capacitance,CR (μF)
+Capacitance,10 μF to 4700 μF
+Capacitance,Rated capacitance (in μF)
 Current,a
 Current,amp
 Current,amps
@@ -66,6 +72,7 @@ Current,Max. Ripple Current (mA) +105°C, 100KHz
 Current,Ripple
 Current,leakage current(max)
 Current,leakage current
+Current,IR 105 °C (mA)
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
@@ -80,6 +87,8 @@ Resistance,Max. Impedance (Ω) +20°C, 100KHz
 Resistance,Max. ESR (Ω) 100KHz, +20°C
 Resistance,z
 Resistance,impedance 120Hz
+Resistance,ESR 100 kHz Ω
+Resistance,IMPEDANCE (Z)
 Voltage,v
 Voltage,V
 Voltage,volt
@@ -96,5 +105,9 @@ Voltage,6.3 ~ 50Vdc
 Voltage,6.3~50vdc
 Voltage,rated voltage vdc
 Voltage,4 V.DC to 50 V.DC
-
+Voltage,6.3 V.DC to 100 V.DC
+Voltage,6.3 V.DC to 100 V.DC
+Voltage,UR V
+Voltage,16 V to 100 V
+Voltage,Rated voltage (in V)
 
