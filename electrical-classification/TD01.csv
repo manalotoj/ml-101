@@ -45,6 +45,8 @@ Capacitance,CR (μF)
 Capacitance,10 μF to 4700 μF
 Capacitance,Rated capacitance (in μF)
 Capacitance,CAPACITANCE (C)
+Capacitance,C=Capacitance(μF)
+Capacitance,1 to 1500μF
 Current,a
 Current,amp
 Current,amps
@@ -75,6 +77,8 @@ Current,leakage current(max)
 Current,leakage current
 Current,IR 105 °C (mA)
 Current,IR 125 °C 100 kHz (mA)
+Current,I
+Current,I=Leakage Current(μA)
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
@@ -114,4 +118,5 @@ Voltage,6.3 V.DC to 100 V.DC
 Voltage,UR V
 Voltage,16 V to 100 V
 Voltage,Rated voltage (in V)
+Voltage,V=Rated Voltage(Vdc)
 
