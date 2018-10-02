@@ -71,7 +71,7 @@ Current,current
 Current,ripple current
 Current,ripple current (100KHz) (+105 °C) (mA r.m.s.)
 Current,mA rms
-Current,Max. Ripple Current (mA) +105°C, 100KHz
+Current,Max. Ripple Current (mA) +105°C 100KHz
 Current,Ripple
 Current,leakage current(max)
 Current,leakage current
@@ -89,14 +89,16 @@ Resistance,Ohm
 Resistance,ohms
 Resistance,impedance
 Resistance,resistance
-Resistance,Max. Impedance (Ω) +20°C, 100KHz
-Resistance,Max. ESR (Ω) 100KHz, +20°C
+Resistance,Max. Impedance (Ω) +20°C 100KHz
+Resistance,Max. ESR (Ω) 100KHz +20°C
 Resistance,z
 Resistance,impedance 120Hz
 Resistance,ESR 100 kHz Ω
 Resistance,IMPEDANCE (Z)
 Resistance,Z 100 kHz 20 °C (Ω)
 Resistance,Z 100 kHz -40 °C (Ω)
+Resistance,impedance Z
+Resistance, Z IMPEDANCE
 Voltage,v
 Voltage,V
 Voltage,volt
