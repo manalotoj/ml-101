@@ -3,6 +3,8 @@ Capacitance,f
 Capacitance,farad
 Capacitance,Farad
 Capacitance,farads
+Capacitance,micro f
+Capacitance,microf
 Capacitance,micro farads
 Capacitance,microfarads
 Capacitance,micro farad
@@ -11,6 +13,8 @@ Capacitance,pico farads
 Capacitance,picofarads
 Capacitance,pico farad
 Capacitance,picofarad
+Capacitance,picof
+Capacitance,pico f
 Capacitance,μ farads
 Capacitance,μfarads
 Capacitance,μf
@@ -22,6 +26,11 @@ Capacitance,nano farad
 Capacitance,nanofarad
 Capacitance,nanofarads
 Capacitance,nano farads
+Capacitance,miliif
+Capacitance,milli farads
+Capacitance,millifarads
+Capacitance,milli farad
+Capacitance,millifarad
 Current,a
 Current,amp
 Current,amps
@@ -53,5 +62,4 @@ Voltage,v
 Voltage,V
 Voltage,volt
 Voltage,volts
-Voltage,vdc
 Voltage,vdc
