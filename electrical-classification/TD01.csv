@@ -44,6 +44,7 @@ Capacitance,0.47 μF to 1000 μF
 Capacitance,CR (μF)
 Capacitance,10 μF to 4700 μF
 Capacitance,Rated capacitance (in μF)
+Capacitance,CAPACITANCE (C)
 Current,a
 Current,amp
 Current,amps
@@ -73,6 +74,7 @@ Current,Ripple
 Current,leakage current(max)
 Current,leakage current
 Current,IR 105 °C (mA)
+Current,IR 125 °C 100 kHz (mA)
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
@@ -89,6 +91,8 @@ Resistance,z
 Resistance,impedance 120Hz
 Resistance,ESR 100 kHz Ω
 Resistance,IMPEDANCE (Z)
+Resistance,Z 100 kHz 20 °C (Ω)
+Resistance,Z 100 kHz -40 °C (Ω)
 Voltage,v
 Voltage,V
 Voltage,volt
