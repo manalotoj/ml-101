@@ -23,10 +23,25 @@ Capacitance,nanofarad
 Capacitance,nanofarads
 Capacitance,nano farads
 Current,a
-Current,A
 Current,amp
 Current,amps
 Current,amperes
+Current,ma
+Current,milliamp
+Current,milliamps
+Current,milliamperes
+Current,m a
+Current,milli amp
+Current,milli amps
+Current,milli amperes
+Current,microa
+Current,microamp
+Current,microamps
+Current,microamperes
+Current,micro a
+Current,micro amp
+Current,micro amps
+Current,micro amperes
 Resistance,Ω
 Resistance,mega Ω
 Resistance,kilo Ω
