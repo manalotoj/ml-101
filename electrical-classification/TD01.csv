@@ -47,6 +47,11 @@ Capacitance,Rated capacitance (in μF)
 Capacitance,CAPACITANCE (C)
 Capacitance,C=Capacitance(μF)
 Capacitance,1 to 1500μF
+Capacitance,12nF
+Capacitance,15 nf
+Capacitance,5 nano farads
+Capacitance,20 nanofarads
+Capacitance,50 nf
 Current,a
 Current,amp
 Current,amps
