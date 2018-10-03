@@ -112,6 +112,7 @@ Resistance,resistance
 Resistance,Max. Impedance (Ω) +20°C 100KHz
 Resistance,Max. ESR (Ω) 100KHz +20°C
 Resistance,z
+Resistance,Z
 Resistance,impedance 120Hz
 Resistance,ESR 100 kHz Ω
 Resistance,IMPEDANCE (Z)
