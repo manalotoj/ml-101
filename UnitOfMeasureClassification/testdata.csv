@@ -1,27 +1,32 @@
 Category,Value
-volts,voltage 1 v
-volts,voltage 2 v
-volts,voltage 3 v
-volts,voltage 4 v
-volts,voltage 5 v
-volts,voltage 6 v
-volts,voltage 7 v
-volts,voltage 8 v
-volts,voltage 9 v
-volts,voltage 10 v
-volts,voltage 1 V
-volts,voltage 2 V
-volts,voltage 3 V
-volts,voltage 4 V
-volts,voltage 5 V
-volts,voltage 6 V
-volts,voltage 7 V
-volts,voltage 8 V
-volts,voltage 9 V
-volts,voltage 10 V
-volts,voltage 1 voltage
-volts,voltage 2 voltage
-volts,voltage 3 voltage
+volts,1 voltage
+volts,2 voltage
+volts,3 voltage
+volts,4 voltage
+volts,5 voltage
+volts,6 voltage
+volts,7 voltage
+volts,8 voltage
+volts,0 v
+volts,0v
+volts,0 to 20 voltage v
+volts,20 v
+volts,20v
+volts,20 to 40 voltage v
+volts,40 v
+volts,40v
+volts,40 to 60 voltage v
+volts,60 v
+volts,60v
+volts,60 to 80 voltage v
+volts,80 v
+volts,80v
+volts,80 to 100 voltage v
+volts,100 v
+volts,100v
+volts,100 to 120 voltage v
+volts,100 voltage v
+ge
 volts,voltage 4 voltage
 volts,voltage 5 voltage
 volts,voltage 6 voltage
@@ -149,6 +154,106 @@ milli volts,voltage 7 mvolt
 milli volts,voltage 8 mvolt
 milli volts,voltage 9 mvolt
 milli volts,voltage 10 mvolt
+milli volts,voltage 1 milli v
+milli volts,voltage 2 milli v
+milli volts,voltage 3 milli v
+milli volts,voltage 4 milli v
+milli volts,voltage 5 milli v
+milli volts,voltage 6 milli v
+milli volts,voltage 7 milli v
+milli volts,voltage 8 milli v
+milli volts,voltage 9 milli v
+milli volts,voltage 10 milli v
+milli volts,voltage 1 milliv
+milli volts,voltage 2 milliv
+milli volts,voltage 3 milliv
+milli volts,voltage 4 milliv
+milli volts,voltage 5 milliv
+milli volts,voltage 6 milliv
+milli volts,voltage 7 milliv
+milli volts,voltage 8 milliv
+milli volts,voltage 9 milliv
+milli volts,voltage 10 milliv
+milli volts,voltage 1 milli V
+milli volts,voltage 2 milli V
+milli volts,voltage 3 milli V
+milli volts,voltage 4 milli V
+milli volts,voltage 5 milli V
+milli volts,voltage 6 milli V
+milli volts,voltage 7 milli V
+milli volts,voltage 8 milli V
+milli volts,voltage 9 milli V
+milli volts,voltage 10 milli V
+milli volts,voltage 1 milliV
+milli volts,voltage 2 milliV
+milli volts,voltage 3 milliV
+milli volts,voltage 4 milliV
+milli volts,voltage 5 milliV
+milli volts,voltage 6 milliV
+milli volts,voltage 7 milliV
+milli volts,voltage 8 milliV
+milli volts,voltage 9 milliV
+milli volts,voltage 10 milliV
+milli volts,voltage 1 milli voltage
+milli volts,voltage 2 milli voltage
+milli volts,voltage 3 milli voltage
+milli volts,voltage 4 milli voltage
+milli volts,voltage 5 milli voltage
+milli volts,voltage 6 milli voltage
+milli volts,voltage 7 milli voltage
+milli volts,voltage 8 milli voltage
+milli volts,voltage 9 milli voltage
+milli volts,voltage 10 milli voltage
+milli volts,voltage 1 millivoltage
+milli volts,voltage 2 millivoltage
+milli volts,voltage 3 millivoltage
+milli volts,voltage 4 millivoltage
+milli volts,voltage 5 millivoltage
+milli volts,voltage 6 millivoltage
+milli volts,voltage 7 millivoltage
+milli volts,voltage 8 millivoltage
+milli volts,voltage 9 millivoltage
+milli volts,voltage 10 millivoltage
+milli volts,voltage 1 milli volts
+milli volts,voltage 2 milli volts
+milli volts,voltage 3 milli volts
+milli volts,voltage 4 milli volts
+milli volts,voltage 5 milli volts
+milli volts,voltage 6 milli volts
+milli volts,voltage 7 milli volts
+milli volts,voltage 8 milli volts
+milli volts,voltage 9 milli volts
+milli volts,voltage 10 milli volts
+milli volts,voltage 1 millivolts
+milli volts,voltage 2 millivolts
+milli volts,voltage 3 millivolts
+milli volts,voltage 4 millivolts
+milli volts,voltage 5 millivolts
+milli volts,voltage 6 millivolts
+milli volts,voltage 7 millivolts
+milli volts,voltage 8 millivolts
+milli volts,voltage 9 millivolts
+milli volts,voltage 10 millivolts
+milli volts,voltage 1 milli volt
+milli volts,voltage 2 milli volt
+milli volts,voltage 3 milli volt
+milli volts,voltage 4 milli volt
+milli volts,voltage 5 milli volt
+milli volts,voltage 6 milli volt
+milli volts,voltage 7 milli volt
+milli volts,voltage 8 milli volt
+milli volts,voltage 9 milli volt
+milli volts,voltage 10 milli volt
+milli volts,voltage 1 millivolt
+milli volts,voltage 2 millivolt
+milli volts,voltage 3 millivolt
+milli volts,voltage 4 millivolt
+milli volts,voltage 5 millivolt
+milli volts,voltage 6 millivolt
+milli volts,voltage 7 millivolt
+milli volts,voltage 8 millivolt
+milli volts,voltage 9 millivolt
+milli volts,voltage 10 millivolt
 micro volts,voltage 1 μ v
 micro volts,voltage 2 μ v
 micro volts,voltage 3 μ v
