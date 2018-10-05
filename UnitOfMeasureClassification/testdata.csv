@@ -1,32 +1,27 @@
 Category,Value
-volts,1 voltage
-volts,2 voltage
-volts,3 voltage
-volts,4 voltage
-volts,5 voltage
-volts,6 voltage
-volts,7 voltage
-volts,8 voltage
-volts,0 v
-volts,0v
-volts,0 to 20 voltage v
-volts,20 v
-volts,20v
-volts,20 to 40 voltage v
-volts,40 v
-volts,40v
-volts,40 to 60 voltage v
-volts,60 v
-volts,60v
-volts,60 to 80 voltage v
-volts,80 v
-volts,80v
-volts,80 to 100 voltage v
-volts,100 v
-volts,100v
-volts,100 to 120 voltage v
-volts,100 voltage v
-ge
+volts,voltage 1 v
+volts,voltage 2 v
+volts,voltage 3 v
+volts,voltage 4 v
+volts,voltage 5 v
+volts,voltage 6 v
+volts,voltage 7 v
+volts,voltage 8 v
+volts,voltage 9 v
+volts,voltage 10 v
+volts,voltage 1 V
+volts,voltage 2 V
+volts,voltage 3 V
+volts,voltage 4 V
+volts,voltage 5 V
+volts,voltage 6 V
+volts,voltage 7 V
+volts,voltage 8 V
+volts,voltage 9 V
+volts,voltage 10 V
+volts,voltage 1 voltage
+volts,voltage 2 voltage
+volts,voltage 3 voltage
 volts,voltage 4 voltage
 volts,voltage 5 voltage
 volts,voltage 6 voltage
